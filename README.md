@@ -3,7 +3,9 @@
 * run command `jupyter notebook`
 
 
+
 ## Referances
+* Plotting https://plot.ly/python/ipython-notebook-tutorial/ 
 
 * MA https://stochasticcoder.com/2016/04/25/forecasting-and-python-part-1-moving-averages/
 * TSA https://www.digitalvidya.com/blog/time-series-analysis/
