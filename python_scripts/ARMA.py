@@ -430,3 +430,7 @@ prediction = arma_model.get_prediction(arma_model.testing_data_set)
 
 arma_model.plot_result(arma_model.testing_data_time, arma_model.testing_data_set, prediction)
 # arma_model.plot_result(arma_model.validation_data_time, arma_model.validation_data_set, prediction)
+
+
+
+# get_ipython().run_linemaginc('matplotlib','qt')
